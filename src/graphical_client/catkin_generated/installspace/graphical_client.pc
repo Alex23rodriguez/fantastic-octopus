@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: graphical_client
+Description: Description of graphical_client
+Version: 1.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: ssl_shared_library
